@@ -16,7 +16,7 @@ const Privacy = (props: Props) => {
               Below are our privacy & policy, which outline a lot of goodies. <br/>
               it’s our aim to always take of our participant
                   </p>
-              <div className="flex flex-col justify-between p-5 border sm:p-10">
+              <div className="flex flex-col justify-between p-5 border border-[#D434FE] sm:p-10">
                 <div>
                   <p className="text-white mb-4 text-[12px] font-normal font-[Montserrat] leading-5 text-left"> At getlinked tech Hackathon 1.0, we value your privacy
                    and are committed to protecting your personal information.

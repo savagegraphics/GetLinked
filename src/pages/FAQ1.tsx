@@ -59,7 +59,7 @@ const FAQ1 = (props: Props) => {
         <div className="md:col-span-2 md:ml-16">
         <div className="FrequentlyAskQuestion"><span className="text-white text-3xl font-bold font-['Clash Display']">Frequently Ask<br/></span><span className="text-fuchsia-500 text-3xl font-bold font-['Clash Display']">Question</span></div>
         <div className="WeGotAnswersToTheQuestionsThatYouMightWantToAskAboutGetlinkedHackathon10"><span className="text-white text-sm font-normal font-['Montserrat'] leading-7">We got answers to the questions that you might<br/>want to ask about </span><span className="text-white text-sm font-bold font-['Montserrat'] leading-7">getlinked Hackathon 1.0</span></div>
-       <div className="hs-accordion-group divide-y divide-gray-200">
+       <div className="hs-accordion-group divide-y divide-[#D434FE]">
             {faqData.map((faq, index) => (
               <div
                 className={`hs-accordion pb-3 ${
