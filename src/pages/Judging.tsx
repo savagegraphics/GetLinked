@@ -6,6 +6,7 @@ type Props = {}
 
 const Rules = (props: Props) => {
       return (
+        <section className='bg-[#150E28]'>
         <div className="overflow-hidden bg-[#150E28] px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-8">
         <div className="grid gap-10 lg:grid-cols-2 lg:ml-8">
         <div className='lg:ml-12 lg:mt-24'>
@@ -66,6 +67,7 @@ const Rules = (props: Props) => {
           </div>
         </div>
       </div>
+      </section>
       );
     };
 
