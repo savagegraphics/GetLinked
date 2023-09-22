@@ -12,11 +12,11 @@ const Rules = (props: Props) => {
             <div className="lg:ml-20 ml-4">
           <div className="mb-4"><span className="text-white lg:text-3xl text-2xl font-bold font-[Clash Display]">Rules and<br/></span><span className="text-fuchsia-500 lg:text-3xl text-2xl font-bold font-['Clash Display']">Guidelines</span></div>     
             <p className="text-white text-[12px] font-normal font-[Montserrat] leading-5 text-left">Our tech hackathon is a melting pot of visionaries, and its purpose is as
-        clear as day: to shape the future. Whether you're a coding genius, a 
-        design maverick, or a concept wizard, you'll have the chance to transform 
+        clear as day: to shape the future. Whether you&apos;re a coding genius, a 
+        design maverick, or a concept wizard, you&apos;ll have the chance to transform 
         your ideas into reality. Solving real-world problems, pushing the boundaries
         of technology, and creating solutions that can change the world,
-        that's what we're all about!</p>
+        that&apos;s what we&apos;re all about!</p>
           </div>
           </div>
           <div>
